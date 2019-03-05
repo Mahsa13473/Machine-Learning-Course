@@ -1,0 +1,8 @@
+name: cmpt419-pytorch-python27
+channels:
+  - pytorch
+  - defaults
+dependencies:
+  - python=2.7.15
+  - pytorch=0.4.1
+  - torchvision=0.2.1
