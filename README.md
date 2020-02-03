@@ -1,3 +1,3 @@
 # Machine-Learning-Course
 
-Here is assignments for Machine Learning course in Fall 2018
+Here is assignments for Machine Learning course, Fall 2018, SFU
