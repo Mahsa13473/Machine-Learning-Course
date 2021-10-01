@@ -11,4 +11,5 @@ In this question we train models for regression and analyze a [dataset](http://w
 ## Assignment 2 (Classification / Deep learning)
 - Logistic Regression
 - Fine-Tuning a Pre-Trained Network 
+  - Write a Python function to be used at the end of training that generates HTML output showing each test image and its classification scores.
 
